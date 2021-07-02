@@ -2,7 +2,7 @@
  * The class ProductFactoryTest implements tests for implementations of the interface IProduct.
  */
 
-package ch.ilv.crm.business.test.product;
+package test.java.ch.ilv.business.test.product;
 
 import static org.junit.Assert.*;
 
